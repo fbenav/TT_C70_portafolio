@@ -12,3 +12,5 @@ Este portafolio contiene los proyectos desarrollados en TT.
  - Operaciones entre variables.
 
 ### Sprint 2: Continuación Python Basico
+
+Este sprint no se vio nada util
