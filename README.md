@@ -10,3 +10,5 @@ Este portafolio contiene los proyectos desarrollados en TT.
  - Tipos de datos.
  - Listas.
  - Operaciones entre variables.
+
+### Sprint 2: Continuación Python Basico
