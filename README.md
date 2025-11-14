@@ -12,3 +12,8 @@ Este portafolio contiene los proyectos desarrollados en TT.
  - Operaciones entre variables.
 
 ### Sprint 2: Continuación Python Basico
+
+En este sprint vemos conceptos más avanzados de python como:
+- Ciclos for/while
+- Condicional if/else/elif.
+- Listas anidadas.
